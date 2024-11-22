@@ -1,0 +1,6 @@
+{
+  "name": "@withonevision/string-builder",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./string-builder.ts"
+}

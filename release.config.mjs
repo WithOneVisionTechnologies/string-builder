@@ -8,6 +8,8 @@ export default {
          {
             changelogFile: "CHANGELOG.md",
          },
+      ],
+      [
          "@semantic-release/changelog",
          {
             changelogFile: "./dist/CHANGELOG.md",

@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/WithOneVisionTechnologies/string-builder/compare/v1.0.0...v1.0.1) (2024-12-05)
+
+
+### Bug Fixes
+
+* **repo:** Fix for changelog updating. ([9027ff3](https://github.com/WithOneVisionTechnologies/string-builder/commit/9027ff304e4cecc3e7bde4fb079a80211937beeb))
+* **repo:** Making sure changelog in dist gets updated ([fefec5b](https://github.com/WithOneVisionTechnologies/string-builder/commit/fefec5b527a5edbdba9a612d47415ba19a6b6257))
+
 # 1.0.0 (2024-12-05)
 
 
